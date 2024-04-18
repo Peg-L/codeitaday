@@ -2,12 +2,12 @@
 export default defineAppConfig({
   docus: {
     title: '阿榮 codeitaday',
-    description: 'The best place to start your documentation.',
+    description: '英文老師轉職前端工程師',
     image:
       'https://user-images.githubusercontent.com/904724/185365452-87b7ca7b-6030-4813-a2db-5e65c785bf88.png',
     socials: {
       instagram: 'https://www.instagram.com/codeitaday/',
-      github: 'nuxt-themes/docus',
+      github: 'https://github.com/Peg-L',
       // nuxt: {
       //   label: 'Nuxt',
       //   icon: 'simple-icons:nuxtdotjs',
@@ -32,7 +32,7 @@ export default defineAppConfig({
     },
     header: {
       logo: false,
-      showLinkIcon: false,
+      showLinkIcon: true,
       exclude: [],
       fluid: true,
     },
