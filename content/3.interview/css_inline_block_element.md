@@ -9,9 +9,9 @@
 
 ## `display: inline` 行內元素
 * 會自適應內容大小
-* 不能設定 width、height、margin 來改變寬高，寬高會依元素本身的內容被撐開
-* 例如：`<a>`、`<span>`、`<img>`... 等
+* 不能設定 width、height、margin 來改變寬高
 * 會與其他行內元素並排在同一列
+* 例如：`<a>`、`<span>`、`<img>`... 等
 
 
 ## `display: inline-block` 行內區塊
@@ -19,5 +19,5 @@ inline-block 結合了行內元素和區塊元素的特點，會像 inline 元�
 
 
 #### 參考資料
-<a href='https://www.explainthis.io/zh-hant/swe/css-center' target='_blank'>CSS 中 display 的值有什麼？inline、block 和 inline-block 有什麼差異？</a>
-<a href='https://eoscreative.co/center-things-on-web-page-html-css/' target='_blank'>水平置中的三種方法，你用對了嗎？</a>
+* <a href='https://www.explainthis.io/zh-hant/swe/css-center' target='_blank'>CSS 中 display 的值有什麼？inline、block 和 inline-block 有什麼差異？</a>
+* <a href='https://eoscreative.co/center-things-on-web-page-html-css/' target='_blank'>水平置中的三種方法，你用對了嗎？</a>
