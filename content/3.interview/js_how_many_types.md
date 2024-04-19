@@ -78,14 +78,14 @@ console.dir(fn); // 函式要用 console.dir 來觀察​
 
 殘念的是有兩個例外：null 和 function。typeof null 回傳 object 但它是原始型別；typeof function 照理說要回傳 object，可是它卻回傳 function...
 
-![type](image-2.png)
+![type](./img/image-2.png)
 
 ## 原始型別包裹物件 primitive wrapper objects
 原始型別總共有 7 個，例如：Number、String、Boolean 等，儘管這些原始型別並不是物件，但 JS 提供了它們各自對應的包裹對象（wrapper objects），讓我們可以讓原始型別執行類似物件的操作，例如：訪問屬性或方法。以字串來說，我們可以取得字串的長度。
 
 這裡要特別注意的是，JS 會在背後偷偷幫我們轉換為對象，再轉回來，並不需要也不建議主動去創建包裹物件實例 `new String()`，創建新實例反而會導致類型判斷上的混淆 (它會回傳 object) 並增加不必要的計算開銷。
 
-#### 資料來源
+#### 參考資料
 * <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures" target="_blank">JavaScript data types and data structures</a>
 * chatgpt
 * <a href="https://www.youtube.com/live/kX3madakVl0?si=4us1OI9UivKPi4v5" target="_blank">JavaScript 型別篇 - JS 面試常見核心知識</a>

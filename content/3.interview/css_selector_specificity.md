@@ -87,7 +87,7 @@ p {
 ## 總結
 !important > inline style > id> class=psuedo-class=attribute > element > *
 
-#### 資料來源
+#### 參考資料
 * <a href="https://siddharam.com.tw/post/20200326/" target="_blank">junior 前端模擬面試：面試官心得</a>
 * <a href="https://medium.com/tiffrrr/css%E6%AC%8A%E9%87%8D-e42b5427e38b" target="_blank">【CSS】來談談css權重</a>
 * chatgpt

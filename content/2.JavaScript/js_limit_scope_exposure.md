@@ -14,5 +14,5 @@
 ## 避免非預期依賴
 如果不必要地暴露變數/函式，它會促使其他開發者使用並依賴那些本來應該是私有的部分。或許不會立刻破壞程式碼，但它造成重構的風險，當我們之後想要重構時，就沒辦法輕易去變動，因為很可能因此把程式碼的其他部分弄壞。
 
-#### 資料來源
+#### 參考資料
 * <a href="https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch6.md" target="_blank">Chapter 6: Limiting Scope Exposure</a>

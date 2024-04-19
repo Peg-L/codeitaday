@@ -1,2 +1,2 @@
-# \[ JavaScript ] what is this?
+# \[ JavaScript ] what is this？
 

@@ -44,6 +44,6 @@ result; // "Barry"
 * debug 較困難，錯誤訊息可能沒辦法準確定位哪段程式碼出錯，尤其當你立即函式塞了一堆內容時會更難處理。
 
 
-#### 資料來源
+#### 參考資料
 * <a href="https://www.explainthis.io/zh-hant/swe/what-is-iife" target="_blank">JavaScript 立即調用函式 IIFE (Immediately Invoked Function Expression) 是什麼？優缺點是什麼？</a>
 * <a href="https://developer.mozilla.org/zh-TW/docs/Glossary/IIFE" target="_blank">IIFE</a>

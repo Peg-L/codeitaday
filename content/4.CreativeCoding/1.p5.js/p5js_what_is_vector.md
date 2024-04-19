@@ -7,6 +7,6 @@
 ## class 用法
 JavaScript Class
 
-#### 資料來源
+#### 參考資料
 * <a href="https://natureofcode.com/vectors/" target="_blank">book: The Nature Of Code</a>
 * <a href="https://youtu.be/bKEaK7WNLzM?si=cP32PposzxOdFlbc" target="_blank">1.1 What is a Vector? - The Nature of Code</a>

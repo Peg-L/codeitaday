@@ -79,7 +79,7 @@ RAIL 分別代表 Web App Life Cycle 裡的四個指標：
 
 
 
-#### 資料來源
+#### 參考資料
 * <a href='https://ithelp.ithome.com.tw/articles/10267350' target='_blank'>Day04 X Core Web Vital & RAIL Model</a>
 * <a href='https://ranking.works/knowledge/core-web-vitals/' target='_blank'>網站體驗核心指標(Core Web Vitals)：認識 LCP, CLS, FID, INP 優化技巧</a>
 * <a href='https://web.dev/articles/cls?hl=zh-tw' target='_blank'>web.dev CLS INP LCP 等介紹</a>

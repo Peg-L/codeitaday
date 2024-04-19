@@ -60,6 +60,6 @@ PNG 在處理含有文字、線條和輪廓較為明顯的影像表現較好。
 
 實際上我的專題該怎麼去處理 1x 2x 3x 這個問題，目前還在嘗試中...
 
-#### 資料來源
+#### 參考資料
 * <a href='https://ithelp.ithome.com.tw/articles/10268776' target='_blank'>Day06 X 圖片最佳化</a>
 * <a href='https://www.explainthis.io/zh-hant/swe/fe-jpg-png-webp-svg' target='_blank'>前端圖片格式選擇，什麼時候該用JPG、 PNG、WebP 或 SVG 呢?</a>

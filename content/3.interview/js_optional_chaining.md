@@ -19,5 +19,5 @@ console.log(adventurer.someNonExistentMethod?.());
 ## 可選串連 ?. 的使用時機
 JS 是同步語言，逐行執行，報錯時會中斷程式碼，利用可選串連不報錯而是回傳 undefined 的特性來避免中斷，尤其是從遠端取資料，比較難預期會拿到什麼值的情況下，可以適當運用，但不要全部都加 ?.。
 
-#### 資料來源
+#### 參考資料
 * <a href="https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Optional_chaining" target="_blank">MDN - 可選串連</a>

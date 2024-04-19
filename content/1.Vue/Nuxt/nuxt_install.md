@@ -40,7 +40,7 @@ npm run dev -- -o
 
 成功建立 👏🏻👏🏻👏🏻👏🏻
 
-![成功建立 nuxt 專案](image.png)
+![成功建立 nuxt 專案](./img/image.png)
 
 #### 參考資料
 * <a href='https://nuxt.com/docs/getting-started/installation#prerequisites' target='_blank'>Nuxt - Installation</a>

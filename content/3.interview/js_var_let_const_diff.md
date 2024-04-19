@@ -1,5 +1,5 @@
 # \[ JavaScript ] var、let 與 const 的差異
-> 主要參考來源：<a href="https://vocus.cc/article/61e64209fd8978000115de66" target="_blank">【自學程式】var、let 與 const 到底差在哪？</a>
+> 主要參考：<a href="https://vocus.cc/article/61e64209fd8978000115de66" target="_blank">【自學程式】var、let 與 const 到底差在哪？</a>
 
 ## var 可以被重複宣告，但是 let、const 不行
 var 可以重複宣告，不會報錯，缺點是不好維護管理，容易取到錯誤的值，忘記或不知道同樣的變數已經在其他地方使用過，導致程式碼結果不如預期。所以 ES6 之後，新增了 let、const 關鍵字，重複宣告變數會報錯
@@ -92,6 +92,6 @@ let greeting = "hi there";
 ## 變數是否強制在宣告時指定值var、let 可以不用先指定值，const 宣告時一定要指定值
 因為 const 不能重新賦值，沒賦值會報錯 `Uncaught SyntaxError: Missing initializer in const declaration`。
 
-#### 資料來源
+#### 參考資料
 * <a href="https://vocus.cc/article/61e64209fd8978000115de66" target="_blank">【自學程式】var、let 與 const 到底差在哪？</a>
 * <a href="https://vocus.cc/article/61e64209fd8978000115de66" target="_blank">在 JavaScript 中用 var, let, 以及 const 有什麼差別？什麼時候該用哪個？| Explain this</a>

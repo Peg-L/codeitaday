@@ -21,5 +21,5 @@ Minimize 是以**程式的功能不受到影響為前提**，移除不必要的�
 如果想全部自己想辦法手動改，我們肯定會瘋掉。其實常見的打包工具 (例如：gulp、Webpack) 與框架都預設相關的功能來自動幫忙處理，太棒了！！！
 
 
-#### 資料來源
+#### 參考資料
 * <a href='https://ithelp.ithome.com.tw/articles/10268059' target='_blank'>Day05 X Code Minimize & Uglify</a>

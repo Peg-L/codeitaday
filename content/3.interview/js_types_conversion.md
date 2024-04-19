@@ -232,7 +232,7 @@ console.log(Number.isNaN('NaN'));
 // false，Number.isNaN 不會將 字串 NaN 視為NaN
 ```
 
-#### 資料來源
+#### 參考資料
 * <a href="https://www.youtube.com/live/kX3madakVl0?si=74DvNQi9WF1eAaWq" target="_blank">JavaScript 型別篇 - JS 面試常見核心知識</a>
 * <a href="https://www.explainthis.io/zh-hant/swe/js-equality" target="_blank">在 JavaScript 當中，==、=== 與 Object.is()的區別</a>
 * chatgpt
