@@ -1,2 +1,0 @@
-# \[ JavaScript ] what is this？
-

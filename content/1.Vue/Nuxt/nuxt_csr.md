@@ -12,9 +12,8 @@ CSR（Client Side Rendering）是一種將渲染資料的過程交由瀏覽器�
 
 ## CSR 的缺點
 * 首次加載時可能需要更多的時間，因為需要加載並執行 JS Bundle 文件。
-* SEO 問題，搜尋引擎爬蟲可能無法正確爬取和索引頁面內容，因為內容是通過 JS 渲染的
+* SEO 較差，搜尋引擎爬蟲可能無法正確爬取和索引頁面內容，因為內容是通過 JS 渲染的。
 * 對於低端設備和網路慢的環境，可能會出現更長的加載時間和更差的用戶體驗。
-
 
 #### 參考資料
 * <a href='https://www.shubo.io/rendering-patterns/#csr-client-side-rendering' target='_blank'>[教學] SSR 與 CSR 深度解析：從渲染方式到效能優化</a>
