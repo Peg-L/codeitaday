@@ -10,6 +10,10 @@
 ### Normalize.css
 旨在使瀏覽器的樣式更加一致，同時保留有用的預設值。Normalize.css 會修正瀏覽器之間的差異，同時保持了標準的 HTML 元素樣式，這使得它在不過度重設的情況下提供一個更好的基礎樣式。
 
+
+Reset.css 和 Normalize.css 的差別就很像你要搬進一個新家，其中一個是空空的房子 (Reset.css)，一個還有留基本家具 (Normalize.css)，有的人喜歡從頭全部自己打造，有的人覺得有基本家具比較方便，沒有絕對的好與壞，端看自己的需求。
+
+
 ## 其他 CSS Reset
 除了上述常見的兩個版本外，主流 CSS 框架也會依照框架的需求設計自己的 CSS Reset，例如：Bootstrap 的 <a href='https://getbootstrap.com/docs/5.3/content/reboot/#approach' target='_blank'>Reboot</a> (基於 Normalize)，還有 Tailwind 的 <a href='https://tailwindcss.com/docs/preflight' target='_blank'>Preflight</a> (基於 modern-normalize )，或者我們也可以依照個人或公司的需求設計自己專屬的 CSS Reset。
 
