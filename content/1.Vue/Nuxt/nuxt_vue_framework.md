@@ -1,4 +1,4 @@
-# \[ Nuxt ] Nuxt | 一個框架的框架
+# Nuxt | Nuxt | 一個框架的框架
 
 對，沒錯。Nuxt 是一個框架 (Vue) 的框架。
 

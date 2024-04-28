@@ -1,4 +1,4 @@
-# \[ JavaScript ] 為什麼要限制作用域暴露 (limit scope exposure)
+# JavaScript | 為什麼要限制作用域暴露 (limit scope exposure)
 ## 避免命名衝突
 當兩段程式碼使用同一個變數或函式名，但這個變數在同一個作用域 (例如全域)，就會發生命名衝突，產生非預期的 bugs。
 

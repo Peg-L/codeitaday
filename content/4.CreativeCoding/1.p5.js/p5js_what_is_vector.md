@@ -1,4 +1,4 @@
-# \[ p5.js ] 什麼是向量 (vector)？
+# p5.js | 什麼是向量 (vector)？
 <a href="https://openprocessing.org/sketch/2236798" target="_blank">範例程式碼</a>
 
 ## 什麼是 vector 向量？

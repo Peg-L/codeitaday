@@ -1,1 +1,1 @@
-# \[ JavaScript ] OOP 物件導向
+# JavaScript | OOP 物件導向

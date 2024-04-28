@@ -1,4 +1,4 @@
-# \[ JavaScript ] 什麼是 event loop?
+# JavaScript | 什麼是 event loop?
 ![event loop](./img/event_loop.png)
 
 JS 是單線程語言，一次只能做一件事。程式碼片段會逐一放進 call stack 中，採用後進先出 (last in first out) 的順序執行。當出現 setTimeout 等非同步事件時，會交給瀏覽器提供的 Web API 處理，完成後再將 callback function 放到 task queue。event loop 會不斷偵測 call stack 的任務是否全部執行完了，再把 task queue 的 callback function 放進 call stack 中執行。

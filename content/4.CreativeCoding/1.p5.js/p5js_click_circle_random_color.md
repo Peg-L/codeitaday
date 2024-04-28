@@ -1,4 +1,4 @@
-# \[ p5.js ] 點擊圓形隨機變色
+# p5.js | 點擊圓形隨機變色
 <a href="https://openprocessing.org/sketch/2235771" target="_blank">點擊查看作品程式碼</a>
 
 ## dist()

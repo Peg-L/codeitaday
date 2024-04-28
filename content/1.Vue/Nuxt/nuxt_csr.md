@@ -1,4 +1,4 @@
-# \[ Nuxt ] CSR (Client Side Rendering) 客戶端渲染
+# Nuxt | CSR (Client Side Rendering) 客戶端渲染
 CSR（Client Side Rendering）是一種將渲染資料的過程交由瀏覽器端處理的方法。
 
 瀏覽器向 server 發送 request 後，接收到空的 HTML 頁面和 JS Bundle 等檔案、資源，所有的邏輯、取資料、交互事件、模板都在客戶端進行處理和加載。

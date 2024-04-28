@@ -1,4 +1,4 @@
-# \[ JavaScript ] 建構函式 (Constructor Function)
+# JavaScript | 建構函式 (Constructor Function)
 
 #### 參考資料
 * [建構物件範本：Constructor Function](https://javascript.alphacamp.co/constructor-function.html){target="_blank"}

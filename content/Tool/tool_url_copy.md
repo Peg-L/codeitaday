@@ -1,4 +1,4 @@
-# [ 工具 ] TabCopy 一次複製多個頁面的標題和連結
+# 工具 | TabCopy 一次複製多個頁面的標題和連結
 因為最近開始寫部落格文章，常常會需要查找資料學習，並在文末附上參考資料和它們的連結。每次都要自己複製標題和連結，弄成 markdown 格式，實在太麻煩了！搜尋後發現 [TabCopy](https://chromewebstore.google.com/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb){target="_blank"} 這個 chrome 套件，解決了我的煩惱～
 
 ## 設定步驟

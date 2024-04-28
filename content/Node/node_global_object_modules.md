@@ -1,4 +1,4 @@
-# \[ Node ] Global 物件和模組
+# Node | Global 物件和模組
 
 ## window 和 global 的差別
 我們在 chrome console 寫程式碼時，會有 window 物件 (全域)，而在 Node.js (以下簡稱 node) 也會有全域 global 物件。

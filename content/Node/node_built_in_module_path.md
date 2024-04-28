@@ -1,4 +1,4 @@
-# \[ Node ] 內建模組 path 介紹
+# Node | 內建模組 path 介紹
 執行 node 程式時，有一些預設資訊內容可以取用，例如 __dirname、__filename 等，在 VS Code 設置斷點並使用 debug 時，能夠在左側欄位查看相關資訊。
 ```js
 var a = 1;

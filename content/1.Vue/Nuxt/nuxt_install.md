@@ -1,4 +1,4 @@
-# \[ Nuxt ] Nuxt 安裝流程
+# Nuxt | Nuxt 安裝流程
 ## 環境需求
 * Node：`v18.0.0` 或更新的版本
 * 文字編輯器：Nuxt 官方推薦 VS Code + ​Vue - Official 原 Volar 套件(已停用)

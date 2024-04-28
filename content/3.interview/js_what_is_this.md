@@ -1,4 +1,4 @@
-# \[ JavaScript ] what is "this"？
+# JavaScript | what is "this"？
 
 * this 是存在函式作用域裡面的 → 每個函式的 this 都可能不同
 * 純粹的呼叫，this 會指向全域，例如: `callSomeone()`

@@ -1,4 +1,4 @@
-# \[ Node ] Node.js 和 V8 引擎簡介
+# Node | Node.js 和 V8 引擎簡介
 ## Node.js 是什麼?
 JavaScript 這種傳統上只運行在瀏覽器裡的腳本語言，Node.js (簡稱 node) 為其提供了一個在伺服器端運行的執行環境，而且這個執行環境跨越多種主流操作系統 (Windows、Linux、macOS 等)。有了 node，使用 JavaScript 開發的應用就不再侷限於瀏覽器端，也能運行在伺服器上，例如開發 Web 服務、命令列工具、物聯網應用等等，大大拓展了 JavaScript 的使用範疇。
 

@@ -1,4 +1,4 @@
-# \[ JavaScript ] var、let 與 const 的差異
+# JavaScript | var、let 與 const 的差異
 > 主要參考：<a href="https://vocus.cc/article/61e64209fd8978000115de66" target="_blank">【自學程式】var、let 與 const 到底差在哪？</a>
 
 ## var 可以被重複宣告，但是 let、const 不行

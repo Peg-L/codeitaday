@@ -1,4 +1,4 @@
-# \[ JavaScript ] 型別轉換與比較
+# JavaScript | 型別轉換與比較
 > 來源：<a href="https://www.youtube.com/live/kX3madakVl0?si=0or9LZRicA2dHFBS" target="_blank">JavaScript 型別篇 - JS 面試常見核心知識</a>
 
 ## 型別轉換

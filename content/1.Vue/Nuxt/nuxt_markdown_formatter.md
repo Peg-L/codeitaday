@@ -1,4 +1,4 @@
-# [ Nuxt ] 不讓 prettier 改變 nuxt markdown 格式
+# Nuxt | 不讓 prettier 改變 nuxt markdown 格式
 ## 問題
 prettier formatter 會改變 nuxt markdown 的格式，讓格式跑掉
 

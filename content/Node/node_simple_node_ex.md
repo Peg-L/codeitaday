@@ -1,4 +1,4 @@
-# \[ Node ] 簡單測試 Node.js
+# Node | 簡單測試 Node.js
 ## 在終端機試玩
 在終端機打 node，會跳出訊息和 >，就可以開始嘗試打一些 JavaScript 語法玩玩看了，就跟我們在瀏覽器 console 打指令一樣。
 ![alt text](image.png)

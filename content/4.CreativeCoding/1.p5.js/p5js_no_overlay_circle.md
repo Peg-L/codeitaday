@@ -1,4 +1,4 @@
-# \[ p5.js ] 隨機不重疊的圓形
+# p5.js | 隨機不重疊的圓形
 <a href="https://openprocessing.org/sketch/2234139" target="_blank">點擊查看作品程式碼</a>
 
 > 來源影片：<a href="https://youtu.be/XATr_jdh-44?si=L4hjSjRhpS9je1yX" target="_blank">9.8: Random Circles with No Overlap - p5.js Tutorial</a>

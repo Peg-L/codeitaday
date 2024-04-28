@@ -1,4 +1,4 @@
-# \[ JavaScript ] 可選串連 ?.
+# JavaScript | 可選串連 ?.
 ## 什麼是 可選串連 ?.
 可選串聯（Optional chaining (?.)）運算符用於訪問 object 的屬性或調用函數。如果使用該運算符訪問的object 或調用的函式為 undefined 或 null，則表達式會回傳 undefined，而不是拋出錯誤。
 ```js

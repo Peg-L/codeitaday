@@ -1,4 +1,4 @@
-# \[ CSS ] display: block、inline、inline-block 的差別
+# CSS | display: block、inline、inline-block 的差別
 
 ## `display: block` 區塊元素
 * 會佔滿父元素的寬度

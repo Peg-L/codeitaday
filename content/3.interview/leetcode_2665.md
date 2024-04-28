@@ -1,4 +1,4 @@
-# \[ Leetcode ] 2665. Counter II
+# Leetcode | 2665. Counter II
 ## 題目
 Write a function `createCounter`. It should accept an initial integer `init`. It should return an object with three functions.
 編寫函式 createCounter。它應該接受初始整數 init。返回一個具有三個函式的物件。

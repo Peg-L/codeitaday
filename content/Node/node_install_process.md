@@ -1,4 +1,4 @@
-# \[ Node ] 安裝 Node.js 流程
+# Node | 安裝 Node.js 流程
 Google 搜尋 node.js，第一個結果就是了，直接點 Download。
 ![alt text](image-3.png)
 

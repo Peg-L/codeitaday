@@ -1,4 +1,4 @@
-# \[ Node ] npm 簡介
+# Node | npm 簡介
 ## 什麼是 npm?
 [npm](https://www.npmjs.com/){target="_blank"}（全名 Node Package Manager，node套件管理器）是 Node.js 預設的、用 JavaScript 編寫的軟體套件管理系統。寫程式時，我們要避免重複造輪子，功能不一定要重頭寫，也可以使用人家發布出來已經寫好的套件，想要使用這些套件就透過 npm 來進行下載。
 

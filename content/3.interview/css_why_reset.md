@@ -1,4 +1,4 @@
-# \[ CSS ] 什麼是 CSS Reset？
+# CSS | 什麼是 CSS Reset？
 
 ## CSS Reset 的用途
 不同的瀏覽器會有自己的預設樣式，這可能會導致我們的網頁在不同瀏覽器中長不一樣，如果針對每個瀏覽器去微調程式碼，光想就覺得很麻煩，也不好維護和管理。為了解決這個問題，大家開始使用「**CSS Reset**」。它讓開發者可以從一個統一的基準開始設計網頁，確保所有元素在所有瀏覽器中都有一致的外觀，這樣可以更準確地控制頁面的排版和樣式。常見的 CSS Reset 有 [Normalize.css](https://necolas.github.io/normalize.css/){target="_blank"} 和 [Reset.css](https://meyerweb.com/eric/tools/css/reset/){target="_blank"}，它們通過覆蓋瀏覽器的預設樣式來達到這個目的。

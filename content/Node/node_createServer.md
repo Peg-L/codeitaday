@@ -1,4 +1,4 @@
-# \[ Node ] 核心模組 http.createServer()
+# Node | 核心模組 http.createServer()
 目標：透過 node 的 [http](https://nodejs.org/docs/latest/api/http.html){target="_blank"} 模組來建立一個 web 伺服器 (web server)
 
 ## web 伺服器 (web server)

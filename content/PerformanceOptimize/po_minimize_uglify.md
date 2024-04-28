@@ -1,4 +1,4 @@
-# \[ 效能優化 ] Code Minimize & Uglify
+# 效能優化 | Code Minimize & Uglify
 >【shout out to 莫力全✨[今晚，我想來點 Web 前端效能優化大補帖！](https://ithelp.ithome.com.tw/users/20113277/ironman/3877){target="_blank"}】 
 > 讀後重點整理 & 重述 & 一點點自己的補充
 

@@ -1,4 +1,4 @@
-# \[ JavaScript ] 有哪些資料型別? 怎麼辨別變數的資料型別?
+# JavaScript | 有哪些資料型別? 怎麼辨別變數的資料型別?
 
 JS 資料型別分為兩大類，原始型別 (Primitive values) 和物件型別 (Objects)。
 

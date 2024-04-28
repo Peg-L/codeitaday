@@ -1,4 +1,4 @@
-# \[ Nuxt ] SSR (Server Side Rendering) 伺服器端渲染
+# Nuxt | SSR (Server Side Rendering) 伺服器端渲染
 伺服器端渲染（SSR）是一種在伺服器端渲染 HTML 頁面的技術，表示伺服器收到瀏覽器的請求之後，在伺服器端生成「完整的 HTML」。因為生成 HTML 的時候會在伺服器端先取得內部或外部 API 資料，所以 SSR 可以省去多次的來回往返。
 
 ## SSR 的優點

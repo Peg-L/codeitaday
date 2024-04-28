@@ -1,4 +1,4 @@
-# \[ JavaScript ] Class
+# JavaScript | Class
 ## Class 是什麼
 類別 (class) 是在 ES6 中引入，用來作為建立**新物件的模板**。它可以將程式碼封裝起來。
 

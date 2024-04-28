@@ -1,1 +1,1 @@
-# \[ JavaScript ] promise async await
+# JavaScript | promise async await

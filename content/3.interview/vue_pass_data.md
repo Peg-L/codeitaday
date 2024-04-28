@@ -1,4 +1,4 @@
-# \[ Vue ] Vue Component 之間如何傳遞資料
+# Vue | Vue Component 之間如何傳遞資料
 「Props in, Event out」，父傳子(外傳內) 透過 props，子傳父(內傳外) 使用 emit
 
 ## props

@@ -1,4 +1,4 @@
-# \[ JavaScript ] 立即函式 IIFE 是什麼？優缺點有哪些？
+# JavaScript | 立即函式 IIFE 是什麼？優缺點有哪些？
 
 ## 立即函式 IIFE 介紹
 立即(調用)函式 (後面都簡稱 IIFE，Immediately Invoked Function Expression) 是種在定義完**可以馬上執行的函式表達式**。函式表達式可以寫成匿名或具名，所以 IIFE 也具有相同特性。另外，也可以寫成箭頭函式，寫起來更精簡，且運行是一樣的。
