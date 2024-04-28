@@ -5,4 +5,5 @@
 
 因為 try、catch 是用來捕捉同步程式碼的錯誤，不能直接搭配 promise，一定要搭配 async await。
 
-<a href='https://youtu.be/NwoAZF66_Go?si=RMfLZawjOL9k8QSR' target='_blank'>JavaScript Error handling in 9 minutes! ⚠</a>
+[JavaScript Error handling in 9 minutes! ⚠](https://youtu.be/NwoAZF66_Go?si=RMfLZawjOL9k8QSR){target="_blank"}
+

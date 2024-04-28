@@ -16,6 +16,6 @@ CSR（Client Side Rendering）是一種將渲染資料的過程交由瀏覽器�
 * 對於低端設備和網路慢的環境，可能會出現更長的加載時間和更差的用戶體驗。
 
 #### 參考資料
-* <a href='https://www.shubo.io/rendering-patterns/#csr-client-side-rendering' target='_blank'>[教學] SSR 與 CSR 深度解析：從渲染方式到效能優化</a>
-* <a href='https://youtu.be/GBdO5myZNsQ?si=FA3NtoDc3R7-d-Ry' target='_blank'>Nuxt 3 Crash Course #1 - What is Nuxt?</a>
+* [SSR 與 CSR 深度解析：從渲染方式到效能優化](https://www.shubo.io/rendering-patterns/#csr-client-side-rendering){target="_blank"}
+* [Nuxt 3 Crash Course #1 - What is Nuxt?](https://youtu.be/GBdO5myZNsQ?si=FA3NtoDc3R7-d-Ry){target="_blank"}
 * Perplexity AI 

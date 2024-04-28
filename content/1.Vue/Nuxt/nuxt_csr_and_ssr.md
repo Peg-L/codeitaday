@@ -8,6 +8,3 @@ CSR 就像是吃鐵板燒，你點餐 (發送 request) 後，廚師他會去廚�
 
 ## [SSR](./nuxt_ssr.md) 餐廳
 SSR 則是吃餐廳，你點餐後 (發送 request) 後，廚師會在廚房 (server) 進行料理 (渲染)，料理 (渲染) 完成後，才把「完整的菜品」端出來給你。
-
-<!-- #### 參考資料
-<a href='https://www.shubo.io/rendering-patterns/' target='_blank'>[教學] SSR 與 CSR 深度解析：從渲染方式到效能優化</a> -->

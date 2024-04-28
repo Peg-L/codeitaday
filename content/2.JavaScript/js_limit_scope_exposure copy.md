@@ -85,9 +85,9 @@ const total = product1.calculateTotal(5); // 有回傳值，可存入​變數�
 ```
 
 ### 其他範例
-* <a href='https://youtu.be/wik23D_gyCo?si=5c5C9DHFK-Sz7HJb' target='_blank'>JavaScript Classes #1: The Basics - JavaScript OOP Tutorial</a>
-* <a href='https://www.youtube.com/watch?v=TQYM2yED-l0' target='_blank'>【javascript】class 介紹</a>
+* [JavaScript Classes #1: The Basics - JavaScript OOP Tutorial](https://youtu.be/wik23D_gyCo?si=5c5C9DHFK-Sz7HJb){target="_blank"}
+* [【javascript】class 介紹](https://www.youtube.com/watch?v=TQYM2yED-l0){target="_blank"}
 
 
 #### 參考資料
-* <a href='https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Classes' target='_blank'>MDN - class</a>
+* [MDN - class](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Classes){target="_blank"}

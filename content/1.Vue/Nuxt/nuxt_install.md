@@ -6,7 +6,7 @@
 **額外補充**
 
 * Node.js: 使用偶數號的版本 (例如: 18、20)
-* Nuxtr: <a href='https://marketplace.visualstudio.com/items?itemName=Nuxtr.nuxtr-vscode' target='_blank'>Nuxtr extension</a>
+* [Nuxtr extension](https://marketplace.visualstudio.com/items?itemName=Nuxtr.nuxtr-vscode){target="_blank"}
 
 ## 開始安裝
 > 有 npx / pnpm / bun 三種可選，以下使用 npx 和 npm
@@ -43,4 +43,4 @@ npm run dev -- -o
 ![成功建立 nuxt 專案](./img/image.png)
 
 #### 參考資料
-* <a href='https://nuxt.com/docs/getting-started/installation#prerequisites' target='_blank'>Nuxt - Installation</a>
+* [Nuxt - Installation](https://nuxt.com/docs/getting-started/installation#prerequisites){target="_blank"}

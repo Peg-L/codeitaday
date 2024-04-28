@@ -1,6 +1,6 @@
 # \[ 效能優化 ] 網站效能優化工具
 
->【shout out to 莫力全✨<a href='https://ithelp.ithome.com.tw/users/20113277/ironman/3877' target='_blank'>今晚，我想來點 Web 前端效能優化大補帖！</a>】 
+>【shout out to 莫力全✨[今晚，我想來點 Web 前端效能優化大補帖！](https://ithelp.ithome.com.tw/users/20113277/ironman/3877){target="_blank"}】 
 > 讀後重點整理 & 重述 & 一點點自己的補充
 
 ## 評估網站效能
@@ -10,12 +10,12 @@
 
 單看上面的考量點還是會不知道實際該怎麼去判斷，對吧? 莫急莫荒莫害怕，已經有幾個檢測網站的工具可以使用了，它們使用一些**特定且公認的指標**來檢測網站的效能。
 
-* <a href='https://pagespeed.web.dev/' target='_blank'>Google PageSpeed Insights</a>
-* <a href='https://www.webpagetest.org/' target='_blank'>WebPageTest</a>
-* <a href='https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=zh-TW' target='_blank'>Lighthouse</a>
+* [Google PageSpeed Insights](https://pagespeed.web.dev/){target="_blank"}
+* [WebPageTest](https://www.webpagetest.org/){target="_blank"}
+* [Lighthouse](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=zh-TW){target="_blank"}
 
 ## 評估工具
-### <a href='https://pagespeed.web.dev/?hl=zh-TW' target='_blank'>Google PageSpeed Insights</a>
+### [Google PageSpeed Insights](https://pagespeed.web.dev/?hl=zh-TW){target="_blank"}
 
 輸入需要檢測的網址就 OK 囉。
 
@@ -44,11 +44,11 @@ WebPageTest 最大的優勢就是「可以輕鬆檢測網站在不同瀏覽器�
 > chatgpt 解釋：PWA 指的是「Progressive Web App」，是一種結合網頁和原生應用程式功能的應用程式開發方法。PWA 允許開發者建立具有快速載入速度、離線工作能力、推送通知等特性的 Web 應用程式，同時提供類似原生應用程式的使用者體驗。
 
 #### 2 種使用方法
-1. 安裝 <a href='https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=zh-TW' target='_blank'>Lighthouse Chrome Extension</a>
+1. 安裝 [Lighthouse Chrome Extension](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=zh-TW){target="_blank"}
 2. 使用 Devtool 的 Lighthouse
 
 ### lighthouse-ci
 最後有補充將 lighthouse 結合 CI/CD workflow，有興趣可以點擊下面連結查看完整文章。
 
 #### 參考/學習資源
-* <a href='https://ithelp.ithome.com.tw/articles/10266656' target='_blank'>Day03 X Performance Analyzers feat. Lighthouse-CI</a>
+* [Day03 X Performance Analyzers feat. Lighthouse-CI](https://ithelp.ithome.com.tw/articles/10266656){target="_blank"}

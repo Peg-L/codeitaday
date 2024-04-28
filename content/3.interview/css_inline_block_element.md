@@ -19,5 +19,5 @@ inline-block 結合了行內元素和區塊元素的特點，會像 inline 元�
 
 
 #### 參考資料
-* <a href='https://www.explainthis.io/zh-hant/swe/css-center' target='_blank'>CSS 中 display 的值有什麼？inline、block 和 inline-block 有什麼差異？</a>
-* <a href='https://eoscreative.co/center-things-on-web-page-html-css/' target='_blank'>水平置中的三種方法，你用對了嗎？</a>
+* [CSS 中 display 的值有什麼？inline、block 和 inline-block 有什麼差異？](https://www.explainthis.io/zh-hant/swe/css-center){target="_blank"}
+* [水平置中的三種方法，你用對了嗎？](https://eoscreative.co/center-things-on-web-page-html-css/){target="_blank"}

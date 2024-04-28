@@ -12,7 +12,7 @@ var c = 3;
 
 或是使用 node 內建模組 path
 
-## <a href='https://nodejs.org/docs/latest/api/path.html' target='_blank'>path</a>
+## [path](https://nodejs.org/docs/latest/api/path.html){target="_blank"}
 載入 path 模組後，透過指令可以取得目錄路徑、合併路徑、分析路徑、取得檔名和副檔名...等，更多語法可以點擊 path 標題連結查看。
 ```js
 var path = require("path"); 

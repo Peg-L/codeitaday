@@ -18,5 +18,5 @@
 
 
 #### 參考資料
-* <a href='https://www.shubo.io/rendering-patterns/#ssr-server-side-rendering' target='_blank'>[教學] SSR 與 CSR 深度解析：從渲染方式到效能優化</a>
+* \[\[教學\] SSR 與 CSR 深度解析：從渲染方式到效能優化\](https://www.shubo.io/rendering-patterns/#ssr-server-side-rendering){target="_blank"}
 * Gemini AI

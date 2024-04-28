@@ -3,4 +3,4 @@
 
 
 #### 參考資料
-<a href='https://pinia.vuejs.org/introduction.html#Why-Pinia' target='_blank'>Why Pinia</a>
+* [Why Pinia](https://pinia.vuejs.org/introduction.html#Why-Pinia){target="_blank"}

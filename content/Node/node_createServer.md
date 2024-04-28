@@ -1,5 +1,5 @@
 # \[ Node ] 核心模組 http.createServer()
-目標：透過 node 的 <a href='https://nodejs.org/docs/latest/api/http.html' target='_blank'>http</a> 模組來建立一個 web 伺服器 (web server)
+目標：透過 node 的 [http](https://nodejs.org/docs/latest/api/http.html){target="_blank"} 模組來建立一個 web 伺服器 (web server)
 
 ## web 伺服器 (web server)
 web 伺服器又稱為網路伺服器或網頁伺服器。web 伺服器是一台託管一個或多個網站的電腦/電腦軟體。託管通常指的是將網站的文件和數據存在伺服器上，以便通過網路提供用戶訪問。當用戶跟 web 伺服器發送請求時，web 伺服器會傳送託管的網站給用戶。
@@ -7,7 +7,7 @@ web 伺服器又稱為網路伺服器或網頁伺服器。web 伺服器是一台
 簡略版：你想看的東西放在 web 伺服器那裡，跟它說一聲我要看，它把東西傳給你。
 
 ## http 模組
-node 本身就內建很多<a href='https://nodejs.org/docs/latest/api/' target='_blank'>模組</a>，<a href='https://nodejs.org/docs/latest/api/http.html' target='_blank'>http</a> 是其中一種，載入內建模組不用特別從資料夾中選擇，還是可以成功載入。
+node 本身就內建很多[模組](https://nodejs.org/docs/latest/api/){target="_blank"}，[http](https://nodejs.org/docs/latest/api/http.html){target="_blank"} 是其中一種，載入內建模組不用特別從資料夾中選擇，還是可以成功載入。
 
 接下來，用 `http.createServer()` 開啟 web 伺服器。
 
@@ -62,9 +62,9 @@ http.createServer(function(request, response) {
 
 AI 解釋：電腦就像一棟大樓，8080 就像是這棟大樓的其中一個房間號碼。當你想要訪問不同的網路服務時，就需要知道我們要存取哪一個「房間號碼」。通常網頁瀏覽服務會使用 80 號房間，這是一個默認和眾所周知的房間號。但有時候 80 號房間已經被其他服務佔用了，這時我們就需要使用備用的房間號碼，比如 8080 號房間。
 
-有些埠號已經被其他協定和服務佔據了，可以查看<a href='https://zh.wikipedia.org/wiki/TCP/UDP%E7%AB%AF%E5%8F%A3%E5%88%97%E8%A1%A8' target='_blank'>通訊埠列表</a>。
+有些埠號已經被其他協定和服務佔據了，可以查看[通訊埠列表](https://zh.wikipedia.org/wiki/TCP/UDP%E7%AB%AF%E5%8F%A3%E5%88%97%E8%A1%A8){target="_blank"}。
 
 #### 學習資源
 * 六角學院影片
 * AI
-* <a href='https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/Pages_sites_servers_and_search_engines#web_server_2' target='_blank'>web server</a>
+* [web server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/Pages_sites_servers_and_search_engines#web_server_2){target="_blank"}

@@ -1,5 +1,5 @@
 # \[ 效能優化 ] Code Minimize & Uglify
->【shout out to 莫力全✨<a href='https://ithelp.ithome.com.tw/users/20113277/ironman/3877' target='_blank'>今晚，我想來點 Web 前端效能優化大補帖！</a>】 
+>【shout out to 莫力全✨[今晚，我想來點 Web 前端效能優化大補帖！](https://ithelp.ithome.com.tw/users/20113277/ironman/3877){target="_blank"}】 
 > 讀後重點整理 & 重述 & 一點點自己的補充
 
 ## Code Minimize & Uglify (程式碼最小化和醜化)
@@ -22,4 +22,4 @@ Minimize 是以**程式的功能不受到影響為前提**，移除不必要的�
 
 
 #### 參考資料
-* <a href='https://ithelp.ithome.com.tw/articles/10268059' target='_blank'>Day05 X Code Minimize & Uglify</a>
+* [Day05 X Code Minimize & Uglify](https://ithelp.ithome.com.tw/articles/10268059){target="_blank"}

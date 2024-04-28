@@ -97,4 +97,4 @@ emit 用於子元件向父層發送消息。
 
 
 #### 參考資料
-<a href='https://book.vue.tw/CH2/2-2-communications.html' target='_blank'>2-2 元件之間的溝通傳遞</a>
+* [2-2 元件之間的溝通傳遞](https://book.vue.tw/CH2/2-2-communications.html){target="_blank"}

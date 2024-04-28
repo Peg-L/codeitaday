@@ -58,5 +58,5 @@ function foo() { };
 ```
 
 #### 參考資料
-* <a href='https://www.explainthis.io/zh-hant/swe/hoisting#hoisting' target='_blank'>什麼是提升 (Hoisting)？</a>
-* <a href='https://blog.techbridge.cc/2018/11/10/javascript-hoisting/' target='_blank'>我知道你懂 hoisting，可是你了解到多深？</a>
+* [什麼是提升 (Hoisting)？](https://www.explainthis.io/zh-hant/swe/hoisting#hoisting){target="_blank"}
+* [我知道你懂 hoisting，可是你了解到多深？](https://blog.techbridge.cc/2018/11/10/javascript-hoisting/){target="_blank"}

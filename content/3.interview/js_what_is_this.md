@@ -25,6 +25,6 @@ nightMarket.logFoods();
 ```
 
 #### 參考資料
-* <a href='https://www.explainthis.io/zh-hant/swe/what-is-this' target='_blank'>解釋 JavaScript 中 this 的值?</a>
+* [解釋 JavaScript 中 this 的值?](https://www.explainthis.io/zh-hant/swe/what-is-this){target="_blank"}
 * 六角學院影片
 * chatgpt
