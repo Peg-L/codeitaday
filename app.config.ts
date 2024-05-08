@@ -18,7 +18,7 @@ export default defineAppConfig({
       branch: 'main',
       repo: 'docus',
       owner: 'nuxt-themes',
-      edit: true,
+      edit: false,
     },
     aside: {
       level: 0,

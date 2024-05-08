@@ -11,6 +11,7 @@
 * 這個職缺維護舊專案、新開發的比例是多少？
 * 會合作的窗口有哪些？(QA、SA、Backend、行銷部門、PM、客戶)
 * 軟體工程師的技能樹，Dev0ps丶測試、部署流程
+* 主管的一天
 
 #### 參考資料
 * [「你有什麼問題想問的嗎？」面試時到底該問什麼好？](https://www.darencademy.com/article/view/id/16963){target="_blank"}
