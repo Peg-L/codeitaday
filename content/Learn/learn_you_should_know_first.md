@@ -34,6 +34,14 @@
 
 再回頭來說說該怎麼規劃細部的學習地圖？在看完前面內容並執行後，你已經獲得很多重要關鍵字，也更了解自己，外加參考網路上和學院的 roadmap，有了這些素材之後，並列出自己有空的時間段，我想應該也不會太難規劃囉。
 
+相關資源：
+* [前端 學習地圖 (EN)](https://roadmap.sh/frontend){target="_blank"}
+* [六角 學習地圖](https://www.figma.com/file/PVb9jxjLUH8vAD0nRLX25O/%E5%89%8D%E7%AB%AF%E5%AD%B8%E7%BF%92%E5%9C%B0%E5%9C%96---%E7%9B%B4%E6%92%AD%E7%89%88?type=whiteboard&node-id=0-1&t=4hB3V9adoz9Qw56p-0){target="_blank"}
+* [六角 邁向前端工程師之路](https://www.hexschool.com/qa/how-to.html){target="_blank"}
+* [2024 Frontend Handbook (EN)](https://frontendmasters.com/guides/front-end-handbook/2024/){target="_blank"} (我還沒看，但有看到不少大神分享)
+
+英文資源推薦安裝 [trancy](https://chromewebstore.google.com/detail/ai-subtitles-immersive-tr/mjdbhokoopacimoekfgkcoogikbfgngb){target="_blank"} 這個 chrome 擴充套件，幫你翻譯英文文章、部分 youtube 中文字幕。
+
 ## 其他我希望 Day 1 就知道的事
 ### 不要做筆記？
 「<span style="color: #f95a48; font-weight: bolder;">不！要做筆記！！</span>我建議你一定要做筆記」，除非你過目不忘
@@ -46,6 +54,9 @@
 
 ### 面試題不一定要等面試前才看
 面試題分兩大類，通識題和技術題。通識題就是類似問你為什麼想轉職這種，兩種在網路上都可以查到很多。技術題考的內容我們幾乎都會在學習過程中學到，少數要特別去了解。如果可以的話，在學 HTML 就可以找 HTML 的技術題來搭配著看，學 CSS 就看 CSS 相關技術題，以此類推，對這些觀念也會特別印象深刻。但別誤會，搭配著看是用來加深印象並提前準備好，不是說學前端只讀這些喔！
+
+題庫資源：
+* [ExplainThis 前端題庫](https://www.explainthis.io/zh-hant/swe-questions/frontend){target="_blank"}
 
 ## 統整
 * 想想看你為什麼想當前端工程師？
