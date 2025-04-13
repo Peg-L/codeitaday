@@ -7,11 +7,11 @@ rebase 的優點是可以建立更線性的 commit history。假如只允許使�
 ## 範例
 目標 1：想要把在 bugfix 所做的修改直接移到 main 分支上。
 
-![alt text](image.png)
+![alt text](/images/git_rebase_1.png)
 
 當我在 bugFix 分支下指令 `git rebase main`，就會將目前分支 (bugFix) 的修改移到 main 分支上。
 
-![alt text](image-1.png)
+![alt text](/images/git_rebase_2.png)
 
 bugFix 分支上的工作在 main 分支的最前端，同時我們也得到了一個更加線性的 commit 順序。
 

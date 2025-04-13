@@ -7,7 +7,6 @@ export default defineNuxtConfig({
     // Remove it if you don't use Plausible analytics
     // https://github.com/nuxt-modules/plausible
     '@nuxtjs/plausible', // make sure to add before content!
-    'nuxt-content-assets',
     '@nuxt/content',
     '@nuxtjs/tailwindcss',
   ],

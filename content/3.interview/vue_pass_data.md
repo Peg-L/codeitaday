@@ -92,7 +92,7 @@ emit 用於子元件向父層發送消息。
 </script>
 ```
 
-![alt text](image.png)
+![alt text](/images/vue_pass_data_example_code.png)
 
 
 

@@ -14,7 +14,6 @@ console.log(typeof number.toString());
 ```
 原形方法可以透過 `new Number()` 展開 prototype 來查看，其他原始型別也是使用同樣的方式。
 
-![alt text](image.png)
 
 #### 一元運算子
 * 轉數值

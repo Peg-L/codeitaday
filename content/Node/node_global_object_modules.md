@@ -10,7 +10,7 @@ console.log(global);​
 ```
 
 node 的 global 跟瀏覽器 window 有一些差別，如果我們在瀏覽器 console 打 `var a = 1`，在 window 可以直接讀取到 a 變數，但在 node 輸入 `var a = 1`，不會被繼承到 global 上，想放在 global，一定要寫 global.a。每個檔案都是一個獨立的模組，一樣可以讀取、寫入和變更 global 的值，但各自的值不會輕易汙染 global 的值。
-![alt text](./img/image-2.png)
+![alt text](/images/node_global.png)
 
 
 ## 模組化

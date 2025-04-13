@@ -6,7 +6,7 @@ const area = obj.width * obj.heigth; // obj.heigth 拼法錯誤
 // Property 'heigth' does not exist on type '{ width: number; height: number; }'. Did you mean 'height'?
 ```
 
-> 備註：什麼是超集 (superset)? 超集 (superset)是一種集合，它包含了另一個集合的所有元素。換句話說，如果集合 A 是集合 B 的超集，那麼集合 B 的每個元素都屬於集合 A。![alt text](image.png){width="50%"}
+> 備註：什麼是超集 (superset)? 超集 (superset)是一種集合，它包含了另一個集合的所有元素。換句話說，如果集合 A 是集合 B 的超集，那麼集合 B 的每個元素都屬於集合 A。![alt text](/images/superset.png){width="50%"}
 
 
 #### 參考資料

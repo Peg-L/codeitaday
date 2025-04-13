@@ -6,7 +6,7 @@
 - 結構簡單直觀，適合小型項目或新手入門
 - 在大型項目中，相關邏輯分散在不同選項中，難以維護
 
-![image.png](./img/options_api.png)
+![image.png](/images/options_api.png)
 
 ## Composition API
 所有資料方法生命週期全部放在 setup 裡面，沒有順序上的差異
@@ -17,7 +17,7 @@
 - 學習曲線較陡峭
 - 生命週期語法變成 on 開頭
 
-![image 1.png](./img/composition_api.png)
+![image 1.png](/images/composition_api.png)
 
 #### 參考資料
 * chatgpt

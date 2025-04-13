@@ -22,13 +22,13 @@
 首先輸入 Vue 專題網址。好的，不出意料。分數非常非常的低... 
 在行動裝置和電腦分別獲得 55 和 57 分🥹🥹，無障礙功能分數也還有不小的改善空間。因為資料不會存在 Google 帳號中，測完後想要留資料，可以收藏存在網頁書籤，或複製連結存放，。
 
-![alt text](./img/image.png)
-![alt text](./img/image-1.png)
+![alt text](/images/page_speed_desktop.png)
+![alt text](/images/page_speed_mobile.png)
 
 除了總分以外，也提供了各項指標的速度和一系列的診斷項目建議 (只截部分作為展示)。
 
-![alt text](./img/image-2.png)
-![alt text](./img/image-3.png)
+![alt text](/images/page_speed_metric.png)
+![alt text](/images/page_speed_diagnosis.png)
 
 PageSpeed 背後其實也是根據 Lighthouse 分析的研究資料計算出分數的。LH extension 資料比較完整和多元，相對的，使用方式比較不方便。LH 除了 extension，也有 devtool 工具，可以直接測用本地端開啟的網頁，就不用一直重新 deploy。
 
@@ -36,7 +36,7 @@ PageSpeed 背後其實也是根據 Lighthouse 分析的研究資料計算出分�
 ### WebPageTest
 WebPageTest 最大的優勢就是「可以輕鬆檢測網站在不同瀏覽器下的狀況」。一樣輸入網站網址就 OK 了，環境部分可以選擇他預設的，或是進階設定成自己需要的。
 
-![alt text](image-4.png)
+![alt text](/images/web_page_test.png)
 
 ### Google Lighthouse
 莫大最常使用也最推薦的工具，介面圖表與網站檢測後的資訊都十分完整，除了效能以外，還提供如 Accessibility、Best Practices、SEO，還可以檢測是不是符合 PWA 的標準。
