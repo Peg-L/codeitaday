@@ -4,27 +4,27 @@
 ## 設定步驟
 
 1. 到套件 Options 進行設定。<br/>
-![options](image.png)
+![options](/images/tool_tabcopy.png)
 
-2. 設定分成 Simple Mode 和 Fancy Mode。Simple Mode 可以設定一種格式，Fancy Mode 可以設定三種。<br/>
-![alt text](image-1.png)
+1. 設定分成 Simple Mode 和 Fancy Mode。Simple Mode 可以設定一種格式，Fancy Mode 可以設定三種。<br/>
+![alt text](/images/tool_tabcopy_2.png)
 
-3. 以 Simple Mode 為例，點擊 Format 可以選擇不同格式。
-![alt text](image-2.png)
-![alt text](image-3.png)
+1. 以 Simple Mode 為例，點擊 Format 可以選擇不同格式。
+![alt text](/images/tool_tabcopy_3.png)
+![alt text](/images/tool_tabcopy_4.png)
 
 ## 使用教學
 ### Simple Mode
-![alt text](image-4.png)
+![alt text](/images/tool_tabcopy_5.png)
 單擊套件按鈕會複製目前選擇的分頁，雙擊會複製該視窗所有分頁，三擊會~~煮菜~~複製所有視窗的所有分頁。
 
 除了點擊套件按鈕，也可以使用快捷鍵 Alt+C。
 
 ### Fancy Mode
 1. 設定好 1~3 種格式。
-![alt text](image-5.png)
+![alt text](/images/tool_tabcopy_6.png)
 
 2-1. 單擊套件按鈕會跳出小視窗，分成兩個區塊。建議先在下面切換所需格式，再點擊上面選項複製目標分頁。
-![alt text](image-6.png)
+![alt text](/images/tool_tabcopy_7.png)
 
 2-2. 一樣可以使用快捷鍵 Alt+C，但快捷鍵不會跳出小視窗，而是會判斷目前選擇的格式是哪一個，並複製目前所選分頁。
