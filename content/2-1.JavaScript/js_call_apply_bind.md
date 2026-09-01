@@ -38,7 +38,6 @@ greet.call(userInfo, 'Harry', 'Voldemort');
 
 ## apply
 * apply 的第一個參數放指定目標函式中的 this
-* 
 * 使用 call 會直接執行方法
 
 
