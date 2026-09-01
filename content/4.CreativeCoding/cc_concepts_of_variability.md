@@ -1,4 +1,7 @@
-# C.C. | 作品變化概念
+---
+title: 'C.C. | 作品變化概念'
+---
+
 ## 有 V.S. 沒有
 * 有顏色 沒有顏色 (fill & noFill)
 * 有框線 沒有框線 (stroke & noStroke)

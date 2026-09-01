@@ -1,4 +1,7 @@
-# Vue | Options API v.s. Composition API
+---
+title: 'Vue | Options API v.s. Composition API'
+---
+
 ## Options API
 通過一組明確的選項（data, methods, computed 等）組織程式碼。
 - 會把資料、方法、生命週期...等分門別類

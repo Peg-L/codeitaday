@@ -1,5 +1,7 @@
-# Vue | Vue Component 之間如何傳遞資料
-「Props in, Event out」，父傳子(外傳內) 透過 props，子傳父(內傳外) 使用 emit
+---
+title: 'Vue | Vue Component 之間如何傳遞資料'
+description: '「Props in, Event out」，父傳子(外傳內) 透過 props，子傳父(內傳外) 使用 emit'
+---
 
 ## props
 prop 是 property 的縮寫，也就是說它是以屬性的形式來傳遞值。props 分為靜態傳入和動態傳入，我們一般最常用 v-bind 動態地將父層的 data 傳入子元件，子元件再用 props 來接收資料。寫法可以記口訣「**前內後外**」，例如：`:img="imgUrl"`，img 就是子元件 props 名，imgUrl 則是父層的 data 名。

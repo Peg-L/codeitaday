@@ -1,4 +1,6 @@
-# Tailwind | Tailwind 核心概念
+---
+title: 'Tailwind | Tailwind 核心概念'
+---
 
 ## utility-first
 utility 是指通用類別 (Utility Classes)，通用類別是一些簡單的 class，通常限定於單個 CSS 屬性，比如 `border-style`、`background-color`...等。在寫頁面的樣式時，就會像玩樂高一樣，把好幾個不同的 class 組裝起來，如以下範例：

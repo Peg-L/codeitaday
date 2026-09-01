@@ -1,5 +1,7 @@
-# Node | 核心模組 http.createServer()
-目標：透過 node 的 [http](https://nodejs.org/docs/latest/api/http.html){target="_blank"} 模組來建立一個 web 伺服器 (web server)
+---
+title: 'Node | 核心模組 http.createServer()'
+description: '目標：透過 node 的 [http](https://nodejs.org/docs/latest/api/http.html){target="_blank"} 模組來建立一個 web 伺服器 (web server)'
+---
 
 ## web 伺服器 (web server)
 web 伺服器又稱為網路伺服器或網頁伺服器。web 伺服器是一台託管一個或多個網站的電腦/電腦軟體。託管通常指的是將網站的文件和數據存在伺服器上，以便通過網路提供用戶訪問。當用戶跟 web 伺服器發送請求時，web 伺服器會傳送託管的網站給用戶。

@@ -1,6 +1,7 @@
-# 什麼是 useRoute()？
-
-`useRoute()` 是 Vue Router 提供的一個 Composition API 的函式（Composable）。它讓你可以存取當前頁面的路由物件（route object），這個物件包含了該路由的相關資訊，例如：現在的路徑（path）、動態路由參數（params）、查詢參數（query）...等。
+---
+title: '什麼是 useRoute()？'
+description: '`useRoute()` 是 Vue Router 提供的一個 Composition API 的函式（Composable）。它讓你可以存取當前頁面的路由物件（route object），這個物件包含了該路由的相關資訊，例如：現在的路徑（path）、動態路由參數（params）、查詢參數（query）...等。'
+---
 
 ```js
 <script setup>

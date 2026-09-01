@@ -1,5 +1,7 @@
-# LinkedIn | LinkedIn 介紹
-整體來說，LinkedIn 很像一個結合了社群媒體 (例如：Facebook) 和求職的平台。
+---
+title: 'LinkedIn | LinkedIn 介紹'
+description: '整體來說，LinkedIn 很像一個結合了社群媒體 (例如：Facebook) 和求職的平台。'
+---
 
 ## 為什麼要用 LinkedIn?
 * 很多外商公司使用

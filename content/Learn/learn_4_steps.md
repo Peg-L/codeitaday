@@ -1,6 +1,7 @@
-# 學習 | 有效學習的四個步驟 | 思維槓桿
-
-今天邊運動邊聽思維槓桿這集 <a href="https://open.spotify.com/episode/6f2etLHElZiTgSGMGqvkId?si=erBmEKUFT7OD2esyKlGAVg" target="_blank">podcast</a>，做一下重點整理，紀錄喜歡的句子跟觀念。
+---
+title: '學習 | 有效學習的四個步驟 | 思維槓桿'
+description: '今天邊運動邊聽思維槓桿這集 <a href="https://open.spotify.com/episode/6f2etLHElZiTgSGMGqvkId?si=erBmEKUFT7OD2esyKlGAVg" target="_blank">podcast</a>，做一下重點整理，紀錄喜歡的句子跟觀念。'
+---
 
 ## 為什麼要閱讀？
 * 獲得工具可以運用

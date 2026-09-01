@@ -1,6 +1,7 @@
-# Nuxt | Nuxt：一個框架的框架
-
-對，沒錯。Nuxt 是一個框架 (Vue) 的框架。
+---
+title: 'Nuxt | Nuxt：一個框架的框架'
+description: '對，沒錯。Nuxt 是一個框架 (Vue) 的框架。'
+---
 
 Vue 是 [CSR (Client Side Rendering) 客戶端渲染](./nuxt_csr.md)，而 Nuxt 是 Universal Rendering，UR 結合了 SSR 和 CSR 的特點，最初會回傳已經渲染完畢的頁面外加 JS Bundle，一開始就具有完整的頁面內容有助於 SEO，瀏覽器載入頁面的速度也會比較快，等待時間越短，用戶越開心。再透過一個稱為 hydration 的過程將 vue 功能和互動性融入頁面中，這樣網頁又能同時具有 SPA (Single Page Application，單頁式應用) 的優點。
 

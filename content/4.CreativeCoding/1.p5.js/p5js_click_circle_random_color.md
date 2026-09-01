@@ -1,5 +1,7 @@
-# p5.js | 點擊圓形隨機變色
-<a href="https://openprocessing.org/sketch/2235771" target="_blank">點擊查看作品程式碼</a>
+---
+title: 'p5.js | 點擊圓形隨機變色'
+description: '<a href="https://openprocessing.org/sketch/2235771" target="_blank">點擊查看作品程式碼</a>'
+---
 
 ## dist()
 [隨機不重疊的圓形 | p5.js](/creativecoding/p5.js/p5js_no_overlay_circle) 變化版，`dist()` 除了用來判斷兩個圓是否重疊，也可以拿來判斷滑鼠在哪個圓內。

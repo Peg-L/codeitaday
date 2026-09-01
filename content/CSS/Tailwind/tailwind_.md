@@ -1,2 +1,3 @@
-# Tailwind | Tailwind
-
+---
+title: 'Tailwind | Tailwind'
+---

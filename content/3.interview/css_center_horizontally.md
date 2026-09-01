@@ -1,4 +1,6 @@
-# CSS | CSS 水平置中
+---
+title: 'CSS | CSS 水平置中'
+---
 
 ## text-align: center;
 在父元素使用，讓內層 inline / inline-block 元素水平置中

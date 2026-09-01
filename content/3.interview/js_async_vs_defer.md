@@ -1,4 +1,6 @@
-# JavaScript | `<script>` 的 async 與 defer 有什麼不同？
+---
+title: 'JavaScript | `<script>` 的 async 與 defer 有什麼不同？'
+---
 
 ## 為什麼需要 async 與 defer?
 

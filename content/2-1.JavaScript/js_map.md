@@ -1,6 +1,7 @@
-# Map 物件
-
-ES6 `Map` 物件可以用來保存和操作鍵值對 (key-value pairs)。透過 `new Map()` 來創建。
+---
+title: 'Map 物件'
+description: 'ES6 `Map` 物件可以用來保存和操作鍵值對 (key-value pairs)。透過 `new Map()` 來創建。'
+---
 
 ```javascript
 new Map([iterable])

@@ -1,5 +1,7 @@
-# Git | rebase
-rebase 是 merge branch 的第二種方法。rebase 就是取出一連串的 commit，"複製"它們，然後把它們接在別的地方。
+---
+title: 'Git | rebase'
+description: 'rebase 是 merge branch 的第二種方法。rebase 就是取出一連串的 commit，"複製"它們，然後把它們接在別的地方。'
+---
 
 rebase 的優點是可以建立更線性的 commit history。假如只允許使用 rebase 的話，則我們的 repo 中的 commit log 或者是 commit history 會更加簡潔好看。
 

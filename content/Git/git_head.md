@@ -1,5 +1,7 @@
-# Git | HEAD
-HEAD 是一個 reference，它指向目前所 checkout 的 commit，基本上，其實就是你目前所在的 commit。
+---
+title: 'Git | HEAD'
+description: 'HEAD 是一個 reference，它指向目前所 checkout 的 commit，基本上，其實就是你目前所在的 commit。'
+---
 
 在 commit tree 中，HEAD 總是指向最近的一次 commit。大部份 git 的指令如果要修改 commit tree 的狀態的話，都會先改變 HEAD 所指向的 commit。
 

@@ -1,4 +1,7 @@
-# Vue | 什麼是 Composition API?
+---
+title: 'Vue | 什麼是 Composition API?'
+---
+
 ## Options API 優缺點
 * 所有功能被依據程式邏輯進行拆分
 * 對於初學者來說相當易於學習

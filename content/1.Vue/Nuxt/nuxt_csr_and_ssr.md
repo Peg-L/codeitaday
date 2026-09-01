@@ -1,5 +1,7 @@
-# Nuxt | 你喜歡鐵板燒還是餐廳? (CSR 和 SSR)
-靈光一閃的比喻
+---
+title: 'Nuxt | 你喜歡鐵板燒還是餐廳? (CSR 和 SSR)'
+description: '靈光一閃的比喻'
+---
 
 ## [CSR](./nuxt_csr.md) 鐵板燒
 CSR 就像是吃鐵板燒，你點餐 (發送 request) 後，廚師他會去廚房 (server) 把所有配菜、佐料都拿出來，在你面前開始進行料理 (渲染)。

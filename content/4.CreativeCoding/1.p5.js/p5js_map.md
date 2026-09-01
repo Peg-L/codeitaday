@@ -1,6 +1,8 @@
-# p5.js | map()
+---
+title: 'p5.js | map()'
+description: 'map() 函式用於將一個數值從一個範圍映射到另一個範圍。'
+---
 
-map() 函式用於將一個數值從一個範圍映射到另一個範圍。
 `map(value, start1, stop1, start2, stop2, [withinBounds])` 
 
 value: 要映射的數值。

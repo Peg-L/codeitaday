@@ -1,4 +1,7 @@
-# C.C. | 資源彙整
+---
+title: 'C.C. | 資源彙整'
+---
+
 ## Discord Server
 * [timrodenbroker creative coding](https://timrodenbroeker.de/community/discord/){target="_blank"}
 * Birb's Nest

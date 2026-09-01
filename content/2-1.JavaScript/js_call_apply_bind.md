@@ -1,5 +1,7 @@
-# JavaScript | call、apply、bind 的差異
-call、apply、bind 三者都是 JavaScript Function 的內建函式。
+---
+title: 'JavaScript | call、apply、bind 的差異'
+description: 'call、apply、bind 三者都是 JavaScript Function 的內建函式。'
+---
 
 ```js
 const userInfo = {
