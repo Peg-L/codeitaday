@@ -128,6 +128,54 @@ description: 工作上實際做過的專案
 
 ::u-page-section
 ---
+id: side-projects
+class: scroll-mt-24
+title: 自主開發
+description: 為了解決自己遇到的問題而做的小工具
+---
+  :::u-page-grid
+    ::::project-card
+    ---
+    type: BROWSER TOOL
+    title: 審核小精靈
+    to: https://peg-l.github.io/comment-tool/
+    linkLabel: 開啟工具
+    role: 個人開發
+    tech:
+      - JavaScript
+      - Bookmarklet
+      - localStorage
+    ---
+    以 bookmarklet 形式運作的網頁標註工具，拖進書籤列後可在任何網站上直接點選元素、寫下修改意見。
+
+    - 解決審核意見散落在通訊軟體、email 與截圖的問題
+    - 支援多頁面分組管理，標註自動存在瀏覽器本地
+    - 一鍵複製整包專案資料或 AI prompt，直接交接給前端
+    ::::
+
+    ::::project-card
+    ---
+    type: MINI GAME
+    title: 打掃抽籤小幫手
+    to: https://peg-l.github.io/cleaning-duty-draw/
+    linkLabel: 開啟工具
+    role: 個人開發
+    tech:
+      - JavaScript
+      - CSS
+      - HTML
+    ---
+    辦公室打掃工作的隨機分配工具，把「誰要掃哪裡」變成抽籤遊戲。
+
+    - 11 種抽籤模式：轉盤、扭蛋機、老虎機、賓果、夾娃娃機等
+    - 人員與工作清單可自行維護，支援當日出席勾選
+    - 純前端實作，含音效控制與結果累積紀錄
+    ::::
+  :::
+::
+
+::u-page-section
+---
 id: experience
 class: scroll-mt-24
 title: 工作經歷
