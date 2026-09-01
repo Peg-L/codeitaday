@@ -13,3 +13,6 @@ sw.*
 .data
 .vercel
 reference
+
+# Cygwin/Git Bash 當機轉存檔
+*.stackdump

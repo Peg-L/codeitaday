@@ -8,6 +8,7 @@
   "scripts": {
     "dev": "nuxi dev",
     "build": "nuxi build",
+    "verify": "nuxi build && node scripts/check-build.mjs",
     "generate": "nuxi generate",
     "preview": "nuxi preview",
     "lint": "eslint ."

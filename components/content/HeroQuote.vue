@@ -4,6 +4,7 @@ withDefaults(defineProps<{
   avatar?: string
   avatarAlt?: string
 }>(), {
+  author: '',
   avatar: '/images/arong-cat-mic.png',
   avatarAlt: '阿榮的貓拿著麥克風',
 })

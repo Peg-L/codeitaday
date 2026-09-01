@@ -18,6 +18,11 @@ export default defineNuxtConfig({
     },
   },
 
+  // 供 sitemap、llms.txt、OG 圖產生絕對網址；不設會 fallback 到 Vercel 每次部署的隨機網址
+  site: {
+    url: 'https://codeitaday.vercel.app',
+  },
+
   nitro: {
     preset: 'vercel-static',
   },
