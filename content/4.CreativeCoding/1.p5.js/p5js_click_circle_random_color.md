@@ -2,7 +2,7 @@
 <a href="https://openprocessing.org/sketch/2235771" target="_blank">點擊查看作品程式碼</a>
 
 ## dist()
-[隨機不重疊的圓形 | p5.js](./no_overlay_circle.md) 變化版，`dist()` 除了用來判斷兩個圓是否重疊，也可以拿來判斷滑鼠在哪個圓內。
+[隨機不重疊的圓形 | p5.js](/creativecoding/p5.js/p5js_no_overlay_circle) 變化版，`dist()` 除了用來判斷兩個圓是否重疊，也可以拿來判斷滑鼠在哪個圓內。
 
 滑鼠跟圓心的距離如果小於圓形半徑，表示滑鼠在圓內，回傳 boolean 值，用來決定要不要變更顏色。
 ```js
