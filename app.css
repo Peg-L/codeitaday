@@ -1,0 +1,66 @@
+/* 品牌主色：取自貓咪臉頰的紅橘 #F84838 */
+@theme static {
+  --color-cat-50: #FEEFEE;
+  --color-cat-100: #FEDDDA;
+  --color-cat-200: #FDBDB7;
+  --color-cat-300: #FC9990;
+  --color-cat-400: #FA7063;
+  --color-cat-500: #F84838;
+  --color-cat-600: #EE2D1B;
+  --color-cat-700: #C82516;
+  --color-cat-800: #A22418;
+  --color-cat-900: #87231A;
+  --color-cat-950: #4D120C;
+}
+
+/* 首頁是一頁式作品集，導覽列不放搜尋（含 docus 內建的手機版搜尋鈕） */
+html[data-landing] header button[aria-label^="Search"] {
+  display: none;
+}
+
+/* 首頁桌面版區塊間距：Nuxt UI 預設 128px，收料為 120px */
+@media (min-width: 1024px) {
+  html[data-landing] section[data-slot="root"] > [data-slot="container"] {
+    padding-block: 120px;
+  }
+}
+
+/* ---- 動畫初始狀態（只在有 JS 且未開啟減少動態時套用） ---- */
+html.js-anim .anim-hero [data-slot="headline"],
+html.js-anim .anim-hero [data-slot="title"],
+html.js-anim .anim-hero [data-slot="description"],
+html.js-anim .anim-hero [data-slot="links"] {
+  opacity: 0;
+  transform: translateY(16px);
+}
+
+html.js-anim .hero-visual {
+  opacity: 0;
+  transform: scale(0.96);
+}
+
+html.js-anim .hero-visual__card {
+  opacity: 0;
+  transform: translateY(12px);
+}
+
+html.js-anim .hero-visual__item {
+  opacity: 0;
+  transform: translateX(-8px);
+}
+
+html.js-anim .reveal {
+  opacity: 0;
+  transform: translateY(20px);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html.js-anim .anim-hero [data-slot],
+  html.js-anim .hero-visual,
+  html.js-anim .hero-visual__card,
+  html.js-anim .hero-visual__item,
+  html.js-anim .reveal {
+    opacity: 1;
+    transform: none;
+  }
+}

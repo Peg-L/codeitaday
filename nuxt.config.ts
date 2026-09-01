@@ -1,11 +1,26 @@
 export default defineNuxtConfig({
-  // https://github.com/nuxt-themes/docus
-  extends: ['@nuxt-themes/docus'],
+  // https://github.com/nuxt-content/docus
+  extends: ['docus'],
+
+  modules: ['@nuxtjs/plausible'],
+
   devtools: { enabled: true },
 
-  modules: ['@nuxtjs/plausible', '@nuxt/content', '@nuxtjs/tailwindcss', '@nuxthq/studio'],
+  app: {
+    head: {
+      script: [
+        {
+          // 在首次繪製前決定要不要跑動畫，避免內容閃一下才隱藏
+          innerHTML: "if(!window.matchMedia('(prefers-reduced-motion: reduce)').matches)document.documentElement.classList.add('js-anim')",
+          tagPosition: 'head',
+        },
+      ],
+    },
+  },
 
   nitro: {
     preset: 'vercel-static',
   },
-});
+
+  compatibilityDate: '2026-08-27',
+})

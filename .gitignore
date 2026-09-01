@@ -10,3 +10,6 @@ dist
 sw.*
 .env
 .output
+.data
+.vercel
+reference

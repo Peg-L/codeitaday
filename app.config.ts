@@ -1,39 +1,42 @@
-// https://github.com/nuxt-themes/docus/blob/main/nuxt.schema.ts
+// https://github.com/nuxt-content/docus/blob/main/nuxt.schema.ts
 export default defineAppConfig({
-  docus: {
+  seo: {
     title: '阿榮 codeitaday',
     description: '英文老師轉職前端工程師',
-    image: './cover.png',
-    socials: {
-      instagram: 'https://www.instagram.com/codeitaday/',
-      github: 'https://github.com/Peg-L',
-      // nuxt: {
-      //   label: 'Nuxt',
-      //   icon: 'simple-icons:nuxtdotjs',
-      //   href: 'https://nuxt.com',
-      // },
-    },
-    github: {
-      dir: '.starters/default/content',
-      branch: 'main',
-      repo: 'docus',
-      owner: 'nuxt-themes',
-      edit: false,
-    },
-    aside: {
-      level: 0,
-      collapsed: true,
-      exclude: [],
-    },
-    main: {
-      padded: true,
-      fluid: true,
-    },
-    header: {
-      logo: false,
-      showLinkIcon: true,
-      exclude: [],
-      fluid: true,
+  },
+  header: {
+    title: '阿榮 codeitaday',
+    logo: {
+      alt: '阿榮 codeitaday',
+      favicon: '/favicon.ico',
     },
   },
-});
+  socials: {
+    instagram: 'https://www.instagram.com/codeitaday/',
+    github: 'https://github.com/Peg-L',
+  },
+  github: {
+    url: 'https://github.com/Peg-L/codeitaday',
+    branch: 'main',
+    rootDir: '.',
+  },
+  search: {
+    fts: true,
+  },
+  ui: {
+    colors: {
+      primary: 'cat',
+      neutral: 'zinc',
+    },
+    page: {
+      slots: {
+        center: 'min-w-0',
+      },
+    },
+    prose: {
+      a: {
+        base: '[overflow-wrap:anywhere]',
+      },
+    },
+  },
+})
